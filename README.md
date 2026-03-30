@@ -33,11 +33,15 @@ If a connection is successfully established, the port is marked as open and disp
 ---
 
 ## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/TheRedart/Network-Port-Scanner.git
+```
+### **2. Install Dependencies**
+Ensure you have Python (3.x) installed on your system.  
+No additional libraries are required as the project uses built-in Python modules.
 
 ## **Screenshots**
 <img width="650" height="500" alt="potscanner_output" src="https://github.com/user-attachments/assets/da37ee90-1a13-4a36-817d-0b492106feb8" />
 
 
-1. Clone the repository:
-```bash
-git clone https://github.com/TheRedart/Network-Port-Scanner.git
