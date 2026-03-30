@@ -24,4 +24,4 @@ If the connection is successful, the port is marked as open.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/TheRedart/Network-Port-Scanner.git
