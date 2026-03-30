@@ -35,7 +35,7 @@ If a connection is successfully established, the port is marked as open and disp
 ## Installation
 
 ## **Screenshots**
-<img width="897" height="686" alt="potscanner_output" src="https://github.com/user-attachments/assets/da37ee90-1a13-4a36-817d-0b492106feb8" />
+<img width="650" height="500" alt="potscanner_output" src="https://github.com/user-attachments/assets/da37ee90-1a13-4a36-817d-0b492106feb8" />
 
 
 1. Clone the repository:
