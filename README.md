@@ -36,6 +36,7 @@ If a connection is successfully established, the port is marked as open and disp
 1. Clone the repository:
 ```bash
 git clone https://github.com/TheRedart/Network-Port-Scanner.git
+cd Network-Port-Scanner.git
 ```
 ### **2. Install Dependencies**
 Ensure you have Python (3.x) installed on your system.  
